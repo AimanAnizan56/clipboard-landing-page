@@ -6,6 +6,13 @@
 @layer base {
   :root {
     /* for variables */
+    /* ### Primary */
+    --color-strong-cyan: 171deg 66% 44%;
+    --color-light-blue: 233deg 100% 69%;
+
+    /* ### Neutral */
+    --color-dark-grayish-blue: 210deg 10% 33%;
+    --color-grayish-blue: 201deg 11% 66%;
   }
   html {
     font-size: 100%;
