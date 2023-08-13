@@ -7,6 +7,9 @@ export default {
         mobile: '375px',
         desktop: '1440px',
       },
+      fontFamily: {
+        BaiJamjuree: ['Bai Jamjuree', 'sans-serif'],
+      },
     },
   },
   plugins: [],
