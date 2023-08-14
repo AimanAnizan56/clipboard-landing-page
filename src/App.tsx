@@ -1,5 +1,6 @@
-import { BackgroundImage } from './components/BackgroundImage';
+import BackgroundImage from './components/BackgroundImage';
 import Introduction from './components/Introduction';
+
 function App() {
   return (
     <>
