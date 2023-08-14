@@ -1,5 +1,4 @@
-import BackgroundImage from './components/BackgroundImage';
-import Introduction from './components/Introduction';
+import { Introduction, BackgroundImage } from './components';
 
 function App() {
   return (
