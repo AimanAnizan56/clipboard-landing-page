@@ -1,7 +1,8 @@
+import { BackgroundImage } from './components/BackgroundImage';
 function App() {
   return (
     <>
-      <div>hello app!</div>
+      <BackgroundImage />
     </>
   );
 }
