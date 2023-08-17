@@ -9,7 +9,7 @@ const Feature = () => {
       </div>
 
       <div className="flex flex-col desktop:flex-row gap-16 align-middle desktop:max-w-[70vw] desktop:mx-auto">
-        <img src={ImgComputer} className="w-[80vw] desktop:w-[180vw] max-w-2xl desktop:max-w-[950px] mx-auto desktop:mr-0 desktop:-ml-80" />
+        <img alt="computer" src={ImgComputer} className="w-[80vw] desktop:w-[180vw] max-w-2xl desktop:max-w-[950px] mx-auto desktop:mr-0 desktop:-ml-80" />
 
         <div className="flex flex-col gap-12 justify-center">
           <div>

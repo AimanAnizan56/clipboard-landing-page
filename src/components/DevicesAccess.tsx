@@ -9,7 +9,7 @@ const DevicesAccess = () => {
         <p className="text-neutral-gray-blue text-center w-[88vw] max-w-[700px] mx-auto">Whether you’re on the go, or at your computer, you can access all your Clipboard snippets in a few simple clicks.</p>
       </div>
 
-      <img src={imgDevices} className="w-[90vw] max-w-[900px] mx-auto" />
+      <img src={imgDevices} alt="multiple devices" className="w-[90vw] max-w-[900px] mx-auto" />
     </>
   );
 };
