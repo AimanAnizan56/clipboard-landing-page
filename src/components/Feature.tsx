@@ -3,7 +3,7 @@ import ImgComputer from '../assets/image-computer.png';
 const Feature = () => {
   return (
     <>
-      <div className="mb-16">
+      <div className="mb-20">
         <h2 className="font-bold text-3xl text-center text-neutral-dark-gray-blue w-[75vw] mx-auto mt-32 mb-4">Keep track of your snippets</h2>
         <p className="text-neutral-gray-blue text-center w-[80vw] mx-auto max-w-[700px]">Clipboard instantly stores any item you copy in the cloud, meaning you can access your snippets immediately on all your devices. Our Mac and iOS apps will help you organize everything.</p>
       </div>
