@@ -1,4 +1,4 @@
-import { Introduction, BackgroundImage, Feature, DevicesAccess } from './components';
+import { Introduction, BackgroundImage, Feature, DevicesAccess, Tools } from './components';
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
       <Introduction />
       <Feature />
       <DevicesAccess />
+      <Tools />
     </>
   );
 }
