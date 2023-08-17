@@ -28,3 +28,13 @@
     padding: 0;
   }
 }
+
+@layer components {
+  .btn-download-ios {
+    @apply cursor-pointer bg-primary-cyan active:bg-opacity-80 mx-10 sm:mx-0 min-w-[200px] px-8 py-3 rounded-full text-white;
+  }
+
+  .btn-download-mac {
+    @apply cursor-pointer bg-primary-blue active:bg-opacity-80 mx-10 sm:mx-0 min-w-[200px] px-8 py-3 rounded-full text-white;
+  }
+}
