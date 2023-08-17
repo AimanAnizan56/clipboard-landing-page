@@ -1,7 +1,7 @@
 import Logo from '../assets/logo.svg';
 const Introduction = () => {
   return (
-    <div className="z-50 relative">
+    <div className="z-50 relative" data-aos="fade-up">
       <img src={Logo} alt="company logo" className="w-28 mx-auto mt-32 mb-12" />
 
       <h1 className="font-bold text-4xl text-center text-neutral-dark-gray-blue w-[90vw] mx-auto mb-4">A history of everything you copy</h1>
