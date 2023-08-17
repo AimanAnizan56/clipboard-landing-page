@@ -4,7 +4,7 @@ const Introduction = () => {
     <div className="z-50 relative">
       <img src={Logo} className="w-28 mx-auto mt-32 mb-12" />
 
-      <h1 className="font-bold text-4xl text-center w-[90vw] mx-auto mb-4">A history of everything you copy</h1>
+      <h1 className="font-bold text-4xl text-center text-neutral-dark-gray-blue w-[90vw] mx-auto mb-4">A history of everything you copy</h1>
 
       <div className="text-center text-neutral-gray-blue w-[85vw] max-w-[650px] mx-auto mb-10">Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all your devices.</div>
 
