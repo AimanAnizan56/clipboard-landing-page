@@ -1,4 +1,4 @@
-import { Introduction, BackgroundImage, Feature, DevicesAccess, Tools, Logo, Outro } from './components';
+import { Introduction, BackgroundImage, Feature, DevicesAccess, Tools, Logo, Outro, Footer } from './components';
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
       <Tools />
       <Logo />
       <Outro />
+      <Footer />
     </>
   );
 }
